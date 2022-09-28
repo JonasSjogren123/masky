@@ -1,0 +1,4 @@
+com/raywenderlich/android/masky/databinding/ActivityMainBinding.java
+ com.raywenderlich.android.masky.databinding.ActivityMainBinding
+com/raywenderlich/android/masky/BuildConfig.java
+ com.raywenderlich.android.masky.BuildConfig

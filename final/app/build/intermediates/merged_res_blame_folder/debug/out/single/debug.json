@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_droid_face.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_droid_face.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_test_01.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\drawable-v24\\test_01.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_droid_face.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_droid_face.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mask.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dashed_lines_background.xml.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\drawable\\dashed_lines_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_droid_face.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_droid_face.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_mask.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_droid_face.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_droid_face.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mask.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mask.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_droid_face.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_droid_face.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mask.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mask.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_droid_face.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_droid_face.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_droid_face.xml.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_droid_face.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_mask.xml.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mask.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]
