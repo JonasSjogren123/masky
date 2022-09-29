@@ -245,7 +245,7 @@ class MainActivity : AppCompatActivity() {
  *
  * @param view View for which drag shadow has to be displayed
  */
-private class MaskDragShadowBuilder(view: View) : View.DragShadowBuilder(view) {
+/*private class MaskDragShadowBuilder(view: View) : View.DragShadowBuilder(view) {
 
   //set shadow to be the actual mask
   private val shadow = ResourcesCompat.getDrawable(view.context.resources, R.drawable.ic_mask, view.context.theme)
@@ -278,9 +278,9 @@ private class MaskDragShadowBuilder(view: View) : View.DragShadowBuilder(view) {
     // Draws the Drawable in the Canvas passed in from the system.
     shadow?.draw(canvas)
   }
-}
+}*/
 
-private class Test01DragShadowBuilder(view: View) : View.DragShadowBuilder(view) {
+/*private class Test01DragShadowBuilder(view: View) : View.DragShadowBuilder(view) {
 
   //set shadow to be the actual mask
   private val shadow =
@@ -314,4 +314,5 @@ private class Test01DragShadowBuilder(view: View) : View.DragShadowBuilder(view)
     // Draws the Drawable in the Canvas passed in from the system.
     shadow?.draw(canvas)
   }
-}
+} */
+

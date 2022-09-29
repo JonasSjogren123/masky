@@ -1,4 +1,4 @@
-#Wed Sep 28 23:35:25 CEST 2022
+#Thu Sep 29 15:47:09 CEST 2022
 base.0=C\:\\Users\\jonas\\AndroidStudioProjects\\Exampleprojects\\DragAndDropAndroid_Materials\\final\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
