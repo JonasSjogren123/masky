@@ -42,6 +42,7 @@ import android.os.Build
 import android.os.Bundle
 import android.view.DragEvent
 import android.view.View
+import android.widget.ImageView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.constraintlayout.widget.ConstraintLayout
@@ -67,14 +68,16 @@ class MainActivity : AppCompatActivity() {
     binding = ActivityMainBinding.inflate(layoutInflater)
     setContentView(binding.root)
 
-    attachViewDragListener()
-    attachViewDragListenerTest01()
+    attachViewDragListener(binding.mask, R.drawable.ic_mask)
+    attachViewDragListener(binding.test01, R.drawable.test_01)
+    //attachViewDragListenerTest01()
 
     binding.maskDropArea.setOnDragListener(maskDragListener)
 
 
 
   }
+
 
   // Creates a mask drag event listener
   private val maskDragListener = View.OnDragListener { view, dragEvent ->
@@ -168,6 +171,8 @@ class MainActivity : AppCompatActivity() {
   /**
    * Method enables drag feature on the draggable view
    */
+
+  /*
   private fun attachViewDragListener() {
 
     binding.mask.setOnLongClickListener { view: View ->
@@ -185,7 +190,42 @@ class MainActivity : AppCompatActivity() {
       )
 
       // Instantiates the drag shadow builder.
-      val maskShadow = MaskDragShadowBuilder(view)
+      val maskShadow = GeneralDragShadowBuilder(view, R.drawable.ic_mask)
+
+      // Starts the drag
+      if (Build.VERSION.SDK_INT < Build.VERSION_CODES.N) {
+        //support pre-Nougat versions
+        @Suppress("DEPRECATION")
+        view.startDrag(dataToDrag, maskShadow, view, 0)
+      } else {
+        //supports Nougat and beyond
+        view.startDragAndDrop(dataToDrag, maskShadow, view, 0)
+      }
+
+      view.visibility = View.INVISIBLE
+      true
+    }
+
+  }*/
+
+  private fun attachViewDragListener(imageView : ImageView, image: Int) {
+
+    imageView.setOnLongClickListener { view: View ->
+
+      // Create a new ClipData.Item with custom text data
+      val item = ClipData.Item(maskDragMessage)
+
+      // Create a new ClipData using a predefined label, the plain text MIME type, and
+      // the already-created item. This will create a new ClipDescription object within the
+      // ClipData, and set its MIME type entry to "text/plain"
+      val dataToDrag = ClipData(
+        maskDragMessage,
+        arrayOf(ClipDescription.MIMETYPE_TEXT_PLAIN),
+        item
+      )
+
+      // Instantiates the drag shadow builder.
+      val maskShadow = GeneralDragShadowBuilder(view, image)
 
       // Starts the drag
       if (Build.VERSION.SDK_INT < Build.VERSION_CODES.N) {
@@ -220,7 +260,7 @@ class MainActivity : AppCompatActivity() {
       )
 
       // Instantiates the drag shadow builder.
-      val test01Shadow = Test01DragShadowBuilder(view)
+      val test01Shadow = GeneralDragShadowBuilder(view, R.drawable.test_01)
 
       // Starts the drag
       if (Build.VERSION.SDK_INT < Build.VERSION_CODES.N) {
@@ -239,80 +279,3 @@ class MainActivity : AppCompatActivity() {
   }
 
 }
-
-/**
- * Drag shadow builder builds a shadow for the mask when drag is ongoing
- *
- * @param view View for which drag shadow has to be displayed
- */
-/*private class MaskDragShadowBuilder(view: View) : View.DragShadowBuilder(view) {
-
-  //set shadow to be the actual mask
-  private val shadow = ResourcesCompat.getDrawable(view.context.resources, R.drawable.ic_mask, view.context.theme)
-
-  // Defines a callback that sends the drag shadow dimensions and touch point back to the
-  // system.
-  override fun onProvideShadowMetrics(size: Point, touch: Point) {
-    // Sets the width of the shadow to full width of the original View
-    val width: Int = view.width
-
-    // Sets the height of the shadow to full height of the original View
-    val height: Int = view.height
-
-    // The drag shadow is a Drawable. This sets its dimensions to be the same as the
-    // Canvas that the system will provide. As a result, the drag shadow will fill the
-    // Canvas.
-    shadow?.setBounds(0, 0, width, height)
-
-    // Sets the size parameter's width and height values. These get back to the system
-    // through the size parameter.
-    size.set(width, height)
-
-    // Sets the touch point's position to be in the middle of the drag shadow
-    touch.set(width / 2, height / 2)
-  }
-
-  // Defines a callback that draws the drag shadow in a Canvas that the system constructs
-  // from the dimensions passed in onProvideShadowMetrics().
-  override fun onDrawShadow(canvas: Canvas) {
-    // Draws the Drawable in the Canvas passed in from the system.
-    shadow?.draw(canvas)
-  }
-}*/
-
-/*private class Test01DragShadowBuilder(view: View) : View.DragShadowBuilder(view) {
-
-  //set shadow to be the actual mask
-  private val shadow =
-    ResourcesCompat.getDrawable(view.context.resources, R.drawable.test_01, view.context.theme)
-
-  // Defines a callback that sends the drag shadow dimensions and touch point back to the
-  // system.
-  override fun onProvideShadowMetrics(size: Point, touch: Point) {
-    // Sets the width of the shadow to full width of the original View
-    val width: Int = view.width
-
-    // Sets the height of the shadow to full height of the original View
-    val height: Int = view.height
-
-    // The drag shadow is a Drawable. This sets its dimensions to be the same as the
-    // Canvas that the system will provide. As a result, the drag shadow will fill the
-    // Canvas.
-    shadow?.setBounds(0, 0, width, height)
-
-    // Sets the size parameter's width and height values. These get back to the system
-    // through the size parameter.
-    size.set(width, height)
-
-    // Sets the touch point's position to be in the middle of the drag shadow
-    touch.set(width / 2, height / 2)
-  }
-
-  // Defines a callback that draws the drag shadow in a Canvas that the system constructs
-  // from the dimensions passed in onProvideShadowMetrics().
-  override fun onDrawShadow(canvas: Canvas) {
-    // Draws the Drawable in the Canvas passed in from the system.
-    shadow?.draw(canvas)
-  }
-} */
-
